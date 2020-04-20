@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Study/Ky%205/protopype/login_logout_post/src/java/model/User_Photo.java</file>
+            <file>file:/D:/Study/Ky%205/protopype/login_logout_post/src/java/model/User.java</file>
+            <file>file:/D:/Study/Ky%205/protopype/login_logout_post/src/java/model/Comment.java</file>
+            <file>file:/D:/Study/Ky%205/protopype/login_logout_post/src/java/model/Post_Topic.java</file>
+            <file>file:/D:/Study/Ky%205/protopype/login_logout_post/src/java/dal/User_PhotoDAO.java</file>
+            <file>file:/D:/Study/Ky%205/protopype/login_logout_post/src/java/controller/entity/Postcontroller.java</file>
+            <file>file:/D:/Study/Ky%205/protopype/login_logout_post/web/homepage.jsp</file>
+            <file>file:/D:/Study/Ky%205/protopype/login_logout_post/src/java/controller/register/RegisterController.java</file>
+            <file>file:/D:/Study/Ky%205/protopype/login_logout_post/src/java/controller/entity/TopicController.java</file>
+            <file>file:/D:/Study/Ky%205/protopype/login_logout_post/web/update.jsp</file>
+            <file>file:/D:/Study/Ky%205/protopype/login_logout_post/web/uploadImg.jsp</file>
+            <file>file:/D:/Study/Ky%205/protopype/login_logout_post/src/java/model/Photo.java</file>
+            <file>file:/D:/Study/Ky%205/protopype/login_logout_post/src/java/controller/entity/SearchTopicController.java</file>
+        </group>
+    </open-files>
+</project-private>
